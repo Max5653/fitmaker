@@ -1,0 +1,6 @@
+{
+  "name": "FitMaker - FileMaker Gym Tracker",
+  "description": "App Android e mobile per atleti con sincronizzazione schede FileMaker (JSON/CSV), calendario sedute, log carichi e serie, e Modalità Tutor con comandi vocali e recupero background.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
